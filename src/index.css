@@ -1,0 +1,9 @@
+@import "https://fonts.googleapis.com/css?family=Ubuntu";
+
+body {
+	margin: 0;
+	font-family: "Ubuntu";
+	font-size: 15px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
